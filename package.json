@@ -22,6 +22,9 @@
     "prettier": "3.8.4",
     "typescript": "^5"
   },
+  "bun-create": {
+    "start": "next dev"
+  },
   "ignoreScripts": [
     "sharp",
     "unrs-resolver"
