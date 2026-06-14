@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next  dev",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
@@ -21,9 +21,6 @@
     "eslint-config-next": "16.2.9",
     "prettier": "3.8.4",
     "typescript": "^5"
-  },
-  "bun-create": {
-    "start": "next dev"
   },
   "ignoreScripts": [
     "sharp",
